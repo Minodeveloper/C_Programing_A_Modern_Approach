@@ -14,6 +14,7 @@ int main(void)
 	printf("Enter first fraction: ");
 	scanf("%d/%d", &num1, &denom1);
 
+
 	printf("Enter second fraction: ");
 	scanf("%d/%d", &num2, &denom2);
 
